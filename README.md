@@ -5,7 +5,7 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 
 ### Introdução
 
-[Ableton - Get started | Learning Music](https://learningmusic.ableton.com/)
+* [Ableton - Get started | Learning Music](https://learningmusic.ableton.com/)
 
 ### Nota / Frequência / Amplitude
 
