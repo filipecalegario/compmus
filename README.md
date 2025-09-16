@@ -37,6 +37,7 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 ### Áudio Digital / Digitalização
 
 * [The IDMIL Digital Audio Workbench – IDMIL](https://www.idmil.org/project/the-digital-audio-workbench/)
+* [Audio Sampling Rate Demo - YouTube](https://www.youtube.com/watch?v=hRhVb6iRArg)
 
 ### Síntese de Áudio
 
