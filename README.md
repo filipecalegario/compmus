@@ -7,6 +7,7 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 
 * [Ableton - Get started | Learning Music](https://learningmusic.ableton.com/): em inglês
 * [Ableton - Introdução | Learning Music](https://learningmusic.ableton.com/pt/index.html): em português
+* [THIS is computer music: Ge Wang at TEDxStanford - YouTube](https://www.youtube.com/watch?v=S-T8kcSRLL0)
 
 ### Nota / Frequência / Amplitude
 
