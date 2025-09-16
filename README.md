@@ -23,3 +23,7 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 ### Áudio Digital / Digitalização
 
 * [The IDMIL Digital Audio Workbench – IDMIL](https://www.idmil.org/project/the-digital-audio-workbench/)
+
+### Síntese de Áudio
+
+* [Ableton - Get started | Learning Synths](https://learningsynths.ableton.com/)
