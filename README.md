@@ -9,6 +9,10 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 * [Ableton - Introdução | Learning Music](https://learningmusic.ableton.com/pt/index.html): em português
 * [THIS is computer music: Ge Wang at TEDxStanford - YouTube](https://www.youtube.com/watch?v=S-T8kcSRLL0)
 
+### Som / Ondas
+
+* [Filter - PhET Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=sound-and-waves&type=html)
+
 ### Nota / Frequência / Amplitude
 
 * [Ouça as frequências de 20Hz a 20.000Hz](https://www.youtube.com/watch?v=9h9V9t4erjo)
