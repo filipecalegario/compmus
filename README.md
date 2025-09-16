@@ -12,6 +12,7 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 ### Som / Ondas
 
 * [Filter - PhET Simulations](https://phet.colorado.edu/en/simulations/filter?subjects=sound-and-waves&type=html)
+* [Chrome Music Lab - Sound-Waves](https://musiclab.chromeexperiments.com/Sound-Waves/)
 
 ### Nota / Frequência / Amplitude
 
