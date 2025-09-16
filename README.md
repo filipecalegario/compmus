@@ -17,6 +17,8 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 ### Ritmo / BPM
 
 * [p5.js Web Editor | COMPMUS_BPM](https://editor.p5js.org/fcac/sketches/kaPOKllJm)
+* [What is a Euclidean rhythm? - YouTube](https://www.youtube.com/watch?v=8G8qko7NZdE)
+* [Et si on pouvait CRÉER des RYTHMES POPULAIRES ? - YouTube](https://www.youtube.com/watch?v=BKrRET3yfeM)
 
 ### Acordes / Harmonia
 
