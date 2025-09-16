@@ -29,6 +29,10 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 
 * [Axis of Awesome - 4 Four Chord Song (with song titles) - YouTube](https://www.youtube.com/watch?v=5pidokakU4I)
 
+### Timbre
+
+* [Chrome Music Lab - Spectrogram](https://musiclab.chromeexperiments.com/Spectrogram/)
+
 ### Áudio Digital / Digitalização
 
 * [The IDMIL Digital Audio Workbench – IDMIL](https://www.idmil.org/project/the-digital-audio-workbench/)
