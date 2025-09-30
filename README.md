@@ -43,6 +43,10 @@ Referências para as aulas de Computação Musical do CIn-UFPE
 
 * [Fundamentals of Music Processing - Python Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 
+### MIDI
+
+* [O que é MIDI?: O Guia do Iniciante para a Ferramenta Mais Poderosa da Música | LANDR Blog](https://blog.landr.com/pt-br/o-que-e-midi-o-guia-iniciante-para-ferramenta-mais-poderosa-da-musica/)
+
 ### Síntese de Áudio
 
 * [Ableton - Get started | Learning Synths](https://learningsynths.ableton.com/)
